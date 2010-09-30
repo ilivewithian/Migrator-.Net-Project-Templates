@@ -28,7 +28,14 @@ namespace Migrator.Net_Templates
 
         public void RunStarted(object automationObject, Dictionary<string, string> replacementsDictionary, WizardRunKind runKind, object[] customParams)
         {
-            replacementsDictionary.Add("$migrationId$", string.Format("{0:yyyyMMddhhssfff}", DateTime.Now));
+            if (replacementsDictionary.ContainsKey("$migrationId$"))
+            {
+                replacementsDictionary["$migrationId$"] = string.Format("{0:yyyyMMddhhssfff}", DateTime.Now);
+            }
+            else
+            {
+                replacementsDictionary.Add("$migrationId$", string.Format("{0:yyyyMMddhhssfff}", DateTime.Now));
+            }
         }
 
         public bool ShouldAddProjectItem(string filePath)
