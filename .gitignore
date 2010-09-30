@@ -1,0 +1,4 @@
+Migrator .Net Templates/bin/
+Migrator .Net Templates/obj/
+*.suo
+*.user
