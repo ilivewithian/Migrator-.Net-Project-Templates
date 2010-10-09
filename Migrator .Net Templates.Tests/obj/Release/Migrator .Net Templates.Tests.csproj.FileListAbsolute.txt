@@ -1,0 +1,11 @@
+C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\bin\Release\Migration.cs
+C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\bin\Release\ClassTemplate.vstemplate
+C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\bin\Release\Migrator.Net_Templates.Tests.dll
+C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\bin\Release\Migrator.Net_Templates.Tests.pdb
+C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\bin\Release\Migrator .Net Templates.dll
+C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\bin\Release\nunit.framework.dll
+C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\bin\Release\Migrator .Net Templates.pdb
+C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\bin\Release\nunit.framework.xml
+C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\obj\Release\Migrator.Net_Templates.Tests.dll
+C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\obj\Release\Migrator.Net_Templates.Tests.pdb

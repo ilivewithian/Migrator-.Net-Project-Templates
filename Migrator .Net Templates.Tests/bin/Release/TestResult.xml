@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\bin\Release\Migrator.Net_Templates.Tests.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-10-09" time="13:35:23">
+  <environment nunit-version="2.5.5.10112" clr-version="2.0.50727.4952" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files\NUnit 2.5.5\bin\net-2.0" machine-name="OFFICE-PC" user="Rob" user-domain="Office-PC" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Rob\Desktop\Migrator-.Net-Project-Templates\Migrator .Net Templates.Tests\bin\Release\Migrator.Net_Templates.Tests.dll" executed="True" result="Success" success="True" time="0.122" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Migrator" executed="True" result="Success" success="True" time="0.112" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Net_Templates" executed="True" result="Success" success="True" time="0.108" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.105" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="MigrationTemplateTests" executed="True" result="Success" success="True" time="0.100" asserts="0">
+                    <results>
+                      <test-case name="Migrator.Net_Templates.Tests.MigrationTemplateTests.RunStarted_DictionaryContainsReplacementText_TextShouldBeReplaced" executed="True" result="Success" success="True" time="0.081" asserts="1" />
+                      <test-case name="Migrator.Net_Templates.Tests.MigrationTemplateTests.RunStarted_DictionaryDoesNotContainsReplacementText_TextShouldBeAdded" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

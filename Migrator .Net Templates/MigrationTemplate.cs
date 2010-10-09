@@ -28,13 +28,14 @@ namespace Migrator.Net_Templates
 
         public void RunStarted(object automationObject, Dictionary<string, string> replacementsDictionary, WizardRunKind runKind, object[] customParams)
         {
+            var migrationId = string.Format("{0:yyyyMMddHHmmssfff}", SystemTime.Now());
             if (replacementsDictionary.ContainsKey("$migrationId$"))
             {
-                replacementsDictionary["$migrationId$"] = string.Format("{0:yyyyMMddhhssfff}", DateTime.Now);
+                replacementsDictionary["$migrationId$"] = migrationId;
             }
             else
             {
-                replacementsDictionary.Add("$migrationId$", string.Format("{0:yyyyMMddhhssfff}", DateTime.Now));
+                replacementsDictionary.Add("$migrationId$", migrationId);
             }
         }
 

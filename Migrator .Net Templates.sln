@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migrator .Net Templates", "Migrator .Net Templates\Migrator .Net Templates.csproj", "{C32F6554-D69A-4726-9BBA-BF113AFADCF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migrator .Net Templates.Tests", "Migrator .Net Templates.Tests\Migrator .Net Templates.Tests.csproj", "{97057E5E-F54F-4D97-8630-BEC909A56D71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{C32F6554-D69A-4726-9BBA-BF113AFADCF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C32F6554-D69A-4726-9BBA-BF113AFADCF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C32F6554-D69A-4726-9BBA-BF113AFADCF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97057E5E-F54F-4D97-8630-BEC909A56D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97057E5E-F54F-4D97-8630-BEC909A56D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97057E5E-F54F-4D97-8630-BEC909A56D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97057E5E-F54F-4D97-8630-BEC909A56D71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
