@@ -1,4 +1,6 @@
 Migrator .Net Templates/bin/
 Migrator .Net Templates/obj/
+Migrator .Net Templates.Tests/bin/
+Migrator .Net Templates.Tests/obj/
 *.suo
 *.user
